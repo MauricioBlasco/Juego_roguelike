@@ -1,0 +1,18 @@
+# Unity: NO subir carpetas generadas
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+SysInfo.txt
+
+# IDEs
+.vscode/
+.vs/
+.idea/
+
+# Otros
+*.unitypackage
